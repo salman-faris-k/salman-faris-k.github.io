@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/baby-bibin.github.io/static/css/main.a617e044.chunk.css",
+    "main.js": "/baby-bibin.github.io/static/js/main.61b63c4b.chunk.js",
+    "main.js.map": "/baby-bibin.github.io/static/js/main.61b63c4b.chunk.js.map",
+    "runtime-main.js": "/baby-bibin.github.io/static/js/runtime-main.2e5237cc.js",
+    "runtime-main.js.map": "/baby-bibin.github.io/static/js/runtime-main.2e5237cc.js.map",
+    "static/js/2.17183b8a.chunk.js": "/baby-bibin.github.io/static/js/2.17183b8a.chunk.js",
+    "static/js/2.17183b8a.chunk.js.map": "/baby-bibin.github.io/static/js/2.17183b8a.chunk.js.map",
+    "static/js/3.f442b96e.chunk.js": "/baby-bibin.github.io/static/js/3.f442b96e.chunk.js",
+    "static/js/3.f442b96e.chunk.js.map": "/baby-bibin.github.io/static/js/3.f442b96e.chunk.js.map",
+    "index.html": "/baby-bibin.github.io/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/baby-bibin.github.io/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.17183b8a.chunk.js.LICENSE.txt": "/baby-bibin.github.io/static/js/2.17183b8a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/baby-bibin.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e5237cc.js",
+    "static/js/2.17183b8a.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.61b63c4b.chunk.js"
+  ]
+}
