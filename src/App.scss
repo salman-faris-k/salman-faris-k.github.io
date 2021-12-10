@@ -1,0 +1,50 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+@import "ColorPalette";
+
+.mainContainer {
+  background: $shadeOne;
+  height: 100vh;
+  padding: 2rem;
+
+  .profileCard {
+    width: 100%;
+    height: 24rem;
+    border-radius: 15px;
+    background: #fff;
+    border: 1px solid $shadeOne;
+    position: relative;
+
+    .coverPicture {
+      height: 50%;
+      width: 100%;
+      background-image: url("./assets/images/coverImage.svg");
+      background-color: $shadeThree;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      border-top-left-radius: 15px;
+      border-top-right-radius: 15px;
+    }
+
+    .profilePicture {
+      height: 10rem;
+      width: 10rem;
+      padding: 10px;
+      position: absolute;
+      top: 5rem;
+      left: 2rem;
+      background: #fff;
+      border-radius: 5px;
+
+      .image {
+        height: 100%;
+        width: 100%;
+        background-image: url("assets/images/profileImage.jpg");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        border-radius: 5px;
+      }
+    }
+  }
+}
