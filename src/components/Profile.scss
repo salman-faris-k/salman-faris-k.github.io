@@ -1,0 +1,96 @@
+@import "../ColorPalette";
+
+.profileCard {
+  width: 100%;
+  border-radius: 1rem;
+  background: #fff;
+  border: 1px solid $shadeOne;
+  position: relative;
+  box-shadow: rgba(99, 99, 99, 0.2) 0 2px 8px 0;
+
+  .coverPicture {
+    height: 10rem;
+    width: 100%;
+    background-image: url("../assets/images/coverImage.svg");
+    background-color: $shadeOne;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+  }
+
+  .profilePicture {
+    height: 10rem;
+    width: 10rem;
+    padding: 10px;
+    position: absolute;
+    top: 3rem;
+    left: 2rem;
+    background: #fff;
+    border-radius: 0.5rem;
+
+    .image {
+      height: 100%;
+      width: 100%;
+      background-image: url("../assets/images/profileImage.jpg");
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      border-radius: 0.5rem;
+    }
+  }
+
+  .profileDetails {
+    padding: 3.5rem 1rem 1rem;
+
+    .name {
+      font-size: 24px;
+      font-weight: 600;
+      line-height: 28px;
+    }
+
+    .role {
+      font-size: 16px;
+      margin-bottom: 12px;
+    }
+
+    .info {
+      display: flex;
+      align-items: flex-start;
+      margin-top: 8px;
+
+      img {
+        height: 20px;
+        margin-right: 5px;
+      }
+
+      a {
+        text-decoration: none;
+        color: $primary-font-color;
+      }
+
+      a:hover {
+        color: $shadeFour;
+      }
+    }
+
+    .contact {
+      display: flex;
+      margin-top: 20px;
+
+      img {
+        height: 30px;
+        margin-right: 20px;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .profileCard {
+    .profilePicture {
+      left: calc(50% - 5.5rem);
+    }
+  }
+}
