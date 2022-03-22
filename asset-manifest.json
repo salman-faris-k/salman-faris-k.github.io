@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.8342d776.chunk.css",
-    "main.js": "/static/js/main.e800ceaf.chunk.js",
-    "main.js.map": "/static/js/main.e800ceaf.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e556a4f0.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e556a4f0.js.map",
+    "main.css": "/static/css/main.4eeb4bf9.chunk.css",
+    "main.js": "/static/js/main.e5c4e959.chunk.js",
+    "main.js.map": "/static/js/main.e5c4e959.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5ecf9f57.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5ecf9f57.js.map",
     "static/css/2.9f337fff.chunk.css": "/static/css/2.9f337fff.chunk.css",
-    "static/js/2.36d8a76d.chunk.js": "/static/js/2.36d8a76d.chunk.js",
-    "static/js/2.36d8a76d.chunk.js.map": "/static/js/2.36d8a76d.chunk.js.map",
-    "static/js/3.18b6a3b0.chunk.js": "/static/js/3.18b6a3b0.chunk.js",
-    "static/js/3.18b6a3b0.chunk.js.map": "/static/js/3.18b6a3b0.chunk.js.map",
+    "static/js/2.6d907d9e.chunk.js": "/static/js/2.6d907d9e.chunk.js",
+    "static/js/2.6d907d9e.chunk.js.map": "/static/js/2.6d907d9e.chunk.js.map",
+    "static/js/3.fc79c51f.chunk.js": "/static/js/3.fc79c51f.chunk.js",
+    "static/js/3.fc79c51f.chunk.js.map": "/static/js/3.fc79c51f.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.9f337fff.chunk.css.map": "/static/css/2.9f337fff.chunk.css.map",
-    "static/css/main.8342d776.chunk.css.map": "/static/css/main.8342d776.chunk.css.map",
-    "static/js/2.36d8a76d.chunk.js.LICENSE.txt": "/static/js/2.36d8a76d.chunk.js.LICENSE.txt",
+    "static/css/main.4eeb4bf9.chunk.css.map": "/static/css/main.4eeb4bf9.chunk.css.map",
+    "static/js/2.6d907d9e.chunk.js.LICENSE.txt": "/static/js/2.6d907d9e.chunk.js.LICENSE.txt",
     "static/media/company.f6b2d578.svg": "/static/media/company.f6b2d578.svg",
     "static/media/Profile.scss": "/static/media/profileImage.a758efde.jpg",
     "static/media/facebook.de504068.svg": "/static/media/facebook.de504068.svg",
@@ -25,10 +25,10 @@
     "static/media/telegram.1ef719d1.svg": "/static/media/telegram.1ef719d1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e556a4f0.js",
+    "static/js/runtime-main.5ecf9f57.js",
     "static/css/2.9f337fff.chunk.css",
-    "static/js/2.36d8a76d.chunk.js",
-    "static/css/main.8342d776.chunk.css",
-    "static/js/main.e800ceaf.chunk.js"
+    "static/js/2.6d907d9e.chunk.js",
+    "static/css/main.4eeb4bf9.chunk.css",
+    "static/js/main.e5c4e959.chunk.js"
   ]
 }
