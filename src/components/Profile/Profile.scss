@@ -1,17 +1,11 @@
-@import "../ColorPalette";
+@import "../../ColorPalette";
 
 .profileCard {
-  width: 100%;
-  border-radius: 1rem;
-  background: #fff;
-  border: 1px solid $shadeOne;
-  position: relative;
-  box-shadow: rgba(99, 99, 99, 0.2) 0 2px 8px 0;
 
   .coverPicture {
     height: 10rem;
     width: 100%;
-    background-image: url("../assets/images/coverImage.svg");
+    background-image: url("../../assets/images/coverImage.svg");
     background-color: $shadeOne;
     background-position: center;
     background-repeat: no-repeat;
@@ -33,7 +27,7 @@
     .image {
       height: 100%;
       width: 100%;
-      background-image: url("../assets/images/profileImage.jpg");
+      background-image: url("../../assets/images/profileImage.jpg");
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;

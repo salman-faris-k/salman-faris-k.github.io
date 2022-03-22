@@ -18,7 +18,7 @@ const Profile: FC<any> = (props: any) => {
                 isMobile ? window.open(`fb://profile/${item.userId}`, '_blank') : window.open(item.link, '_blank');
                 break;
             case 'Instagram':
-                isMobile ? window.open(`instagram://user?username=/${item.userId}`, '_blank') : window.open(item.link, '_blank');
+                isMobile ? window.open(`instagram://user?username=${item.userId}`, '_blank') : window.open(item.link, '_blank');
                 break;
             case 'Phone':
                 window.open(`tel:${item.link}`, '_blank');
@@ -38,7 +38,7 @@ const Profile: FC<any> = (props: any) => {
     };
 
     return profileDetails && (
-        <div className='profileCard'>
+        <div className='profileCard infoCard'>
             <div className='coverPicture'/>
             <div className='profilePicture'>
                 <div className='image'/>

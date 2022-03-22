@@ -8,14 +8,39 @@ body {
   color: $primary-font-color;
 }
 
+.col {
+  padding: 0;
+}
+
 .mainContainer {
   height: 100vh;
   padding: 1rem 10%;
+  overflow: auto;
+}
+
+.infoCard {
+  width: 100%;
+  border-radius: 1rem;
+  background: #fff;
+  border: 1px solid $shadeOne;
+  position: relative;
+  box-shadow: rgba(99, 99, 99, 0.2) 0 2px 8px 0;
+
+  .cardTitle {
+    font-size: 18px;
+    font-weight: 600;
+  }
 }
 
 
 @media screen and (max-width: 1024px) {
   .mainContainer {
     padding: 1rem;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .mainContainer {
+    padding: 10px;
   }
 }
