@@ -8,7 +8,7 @@ const customTheme = {
     borderDotColor: '#d0cdc4',
     titleColor: '#405b73',
     subtitleColor: '#bf9765',
-    textColor: '#262626',
+    textColor: '#262626'
 };
 
 const monthDiff = (d1: any, d2: any) => {
@@ -30,8 +30,8 @@ const Experience: FC<any> = (props: any) => {
                 Experience
             </div>
             <Timeline theme={customTheme} dateFormat='short'>
-                {timelineDetails.slice(0).reverse().map((timeline: any) => (
-                    <Container>
+                {timelineDetails.slice(0).reverse().map((timeline: any, index: number) => (
+                    <Container key={index}>
                         <YearContent startDate={timeline.from} endDate={timeline.to ? timeline.to : currentDate}/>
                         <BodyContent>
                             <Section title={timeline.title}>

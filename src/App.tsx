@@ -13,6 +13,7 @@ import locationIcon from "./assets/images/location.svg";
 import homeIcon from "./assets/images/home.svg";
 import Experience from "./components/Experience/Experience";
 import Education from "./components/Education/Education";
+import Works from "./components/Works/Works";
 
 const details = {
     profileCardDetails: {
@@ -76,29 +77,71 @@ const details = {
             {
                 title: 'Internship Trainee',
                 company: 'Knowledgelens',
-                from: 'Jan 2019',
-                to: 'May 2019',
+                from: 'Tue Jan 01 2019 00:00:00',
+                to: 'Wed May 01 2019 00:00:00',
                 location: 'Bangalore, Karnataka, India',
                 timePeriod: '5 Months'
             },
             {
                 title: 'Full Stack Developer',
                 company: 'Knowledgelens',
-                from: 'May 2019',
-                to: 'May 2021',
+                from: 'Wed May 01 2019 00:00:00',
+                to: 'Sat May 01 2021 00:00:00',
                 location: 'Pune, Maharashtra, India',
                 timePeriod: '2 Years'
             },
             {
                 title: 'Sr. Full Stack Developer',
                 company: 'Knowledgelens',
-                from: 'May 2021',
+                from: 'Sat May 01 2021 00:00:00',
                 to: '',
                 location: 'Pune, Maharashtra, India',
                 timePeriod: 'Present'
             }
         ]
-    }
+    },
+    education: [
+        {
+            title: 'TKM College Of Engineering, Kollam',
+            subtitle: 'Master of Computer Applications',
+            year: '2017 - 2019',
+            image: 'assets/images/tkm.png',
+            link: 'https://www.tkmce.ac.in/'
+        },
+        {
+            title: 'Mahatma Gandhi College, Iritty',
+            subtitle: 'Bachelor of Science in Computer Science',
+            year: '2014 - 2017',
+            image: 'assets/images/mg-college.png',
+            link: 'https://mgcollege.ac.in/'
+        }
+    ],
+    works: [
+        {
+            title: 'Angular',
+            image: 'assets/images/angular.svg',
+            description: 'Angular is a TypeScript-based free and open-source web application framework led by the Angular Team at Google and by a community of individuals and corporations. Angular is a complete rewrite from the same team that built AngularJS',
+            link: ''
+        },
+        {
+            title: 'React',
+            image: 'assets/images/react.svg',
+            description: 'React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies.',
+            link: ''
+        },
+        {
+            title: 'Python',
+            image: 'assets/images/python.svg',
+            description: 'Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for small- and large-scale projects.',
+            link: ''
+        },
+        {
+            title: 'Node.js',
+            image: 'assets/images/nodejs.svg',
+            description: 'Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser.',
+            link: ''
+        }
+    ]
 }
 
 
@@ -115,9 +158,10 @@ function App() {
                                 <Experience details={details.experience}/>
                             </Col>
                             <Col sm={12} md={12} lg={6} xl={6} xxl={6}>
-                                <Education details={details.experience}/>
+                                <Education details={details.education}/>
                             </Col>
                         </Row>
+                        <Works details={details.works}/>
                     </div>
                 </Col>
             </Row>

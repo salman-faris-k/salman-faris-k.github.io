@@ -5,7 +5,7 @@
   .coverPicture {
     height: 10rem;
     width: 100%;
-    background-image: url("../../assets/images/coverImage.svg");
+    background-image: url("./Images/coverImage.svg");
     background-color: $shadeOne;
     background-position: center;
     background-repeat: no-repeat;
@@ -27,7 +27,7 @@
     .image {
       height: 100%;
       width: 100%;
-      background-image: url("../../assets/images/profileImage.jpg");
+      background-image: url("./Images/profileImage.jpg");
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;
