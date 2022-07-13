@@ -102,15 +102,15 @@ const details = {
     },
     education: [
         {
-            title: 'TKM College Of Engineering, Kollam',
-            subtitle: 'Master of Computer Applications',
+            title: 'Master of Computer Applications',
+            subtitle: 'TKM College Of Engineering, Kollam',
             year: '2017 - 2019',
             image: 'assets/images/tkm.png',
             link: 'https://www.tkmce.ac.in/'
         },
         {
-            title: 'Mahatma Gandhi College, Iritty',
-            subtitle: 'Bachelor of Science in Computer Science',
+            subtitle: 'Mahatma Gandhi College, Iritty',
+            title: 'Bachelor of Science in Computer Science',
             year: '2014 - 2017',
             image: 'assets/images/mg-college.png',
             link: 'https://mgcollege.ac.in/'

@@ -9,7 +9,7 @@ const Works: FC<any> = (props: any) => {
     return workTiles && (
         <div className='infoCard mt-3 px-4 py-3'>
             <div className='cardTitle'>
-                Works
+                Projects
             </div>
             <Row>
                 {workTiles.map((work: any, index: number) => (

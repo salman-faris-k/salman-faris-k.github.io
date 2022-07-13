@@ -45,7 +45,7 @@ const Profile: FC<any> = (props: any) => {
             </div>
             <Container fluid>
                 <Row>
-                    <Col md={12} lg={6}>
+                    <Col md={12} lg={8}>
                         <div className='profileDetails'>
                             <div className='name'>
                                 {profileDetails.name}
