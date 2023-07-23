@@ -70,7 +70,7 @@ const details = {
         ]
     },
     summaryCardDetails: {
-        summary: 'Passionate and motivated Full stack developer with over 3 years of experience in designing, building, scaling, and maintaining applications.'
+        summary: 'Passionate and motivated Full stack developer with over 4 years of experience in designing, building, scaling, and maintaining applications.'
     },
     experience: {
         timeline: [
@@ -94,8 +94,16 @@ const details = {
                 title: 'Sr. Full Stack Developer',
                 company: 'Knowledgelens',
                 from: 'Sat May 01 2021 00:00:00',
+                to: 'Sat Oct 01 2022 00:00:00',
+                location: 'Bangalore, Karnataka, India',
+                timePeriod: '1.5 Years'
+            },
+            {
+                title: 'Technology Lead',
+                company: 'Knowledgelens',
+                from: 'Sat Oct 01 2022 00:00:00',
                 to: '',
-                location: 'Pune, Maharashtra, India',
+                location: 'Bangalore, Karnataka, India',
                 timePeriod: 'Present'
             }
         ]
