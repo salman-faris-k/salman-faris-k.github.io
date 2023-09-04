@@ -18,7 +18,7 @@ import Works from "./components/Works/Works";
 const details = {
     profileCardDetails: {
         name: 'Bibin Baby',
-        role: 'Sr. Fullstack Developer - Angular | React | Node.js | Python',
+        role: 'Fullstack Developer - Angular | React | Node.js | Python',
         info: [
             {
                 label: 'KnowledgeLens',
@@ -26,8 +26,8 @@ const details = {
                 icon: companyIcon
             },
             {
-                label: 'Pune, Maharashtra',
-                link: 'https://goo.gl/maps/JPSbxtkq8LLsc8ws9',
+                label: 'Bengaluru, Karnataka',
+                link: 'https://goo.gl/maps/4SqY4wEgmLCQHujX8',
                 icon: locationIcon
             },
             {
