@@ -1,0 +1,31 @@
+@import "./src/ColorPalette";
+
+.certificate {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+  margin-bottom: 10px;
+
+  img {
+    height: 25px;
+    margin-right: 10px;
+  }
+
+  .details {
+    .title {
+      font-weight: 600;
+      cursor: pointer;
+      color: $shadeFour;
+    }
+    .subtitle {
+      font-size: 14px;
+      line-height: 12px;
+      opacity: 60%;
+    }
+
+    .year {
+      font-size: 14px;
+      opacity: 0.6;
+    }
+  }
+}

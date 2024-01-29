@@ -6,6 +6,8 @@
   padding: 20px;
   margin-bottom: 20px;
   margin-top: 10px;
+  height: 160px;
+  transition: all 0.3s ease;
 
   .title {
     font-size: 20px;
@@ -18,7 +20,9 @@
   }
 
   .workIcon {
-    height: 100px;
+    max-height: 70px;
+    max-width: -webkit-fill-available;
+    transition: all 0.3s ease;
   }
 
   .navigation {
@@ -46,4 +50,7 @@
 
 .workTile:hover {
   box-shadow: rgb(99 99 99 / 20%) 0 2px 8px 6px;
+  .workIcon {
+    transform: scale(1.1);
+  }
 }
