@@ -1,0 +1,28 @@
+.dateElement {
+  display: flex;
+  flex-direction: column;
+  min-width: 100px;
+  .subText {
+    font-size: 10px;
+    text-align: right;
+  }
+  .date {
+    margin-bottom: 6px;
+  }
+}
+
+.Experience {
+  display: flex;
+  flex-direction: column;
+  .Role {
+    font-size: 18px;
+  }
+  .Company {
+    font-size: 14px;
+    font-style: italic;
+    opacity: 0.8;
+  }
+  .Duration {
+    opacity: 0.8;
+  }
+}

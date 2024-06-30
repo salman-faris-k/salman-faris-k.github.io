@@ -1,7 +1,6 @@
 @import "../../ColorPalette";
 
 .profileCard {
-
   .coverPicture {
     height: 10rem;
     width: 100%;
@@ -86,5 +85,17 @@
     .profilePicture {
       left: calc(50% - 5.5rem);
     }
+  }
+}
+
+.contact-icon:hover {
+  img {
+    transform: scale(1.1);
+  }
+}
+.contact-icon {
+  cursor: pointer;
+  img {
+    transition: transform 0.3s;
   }
 }
