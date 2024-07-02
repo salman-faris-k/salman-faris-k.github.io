@@ -1,7 +1,7 @@
 {
   "profileCardDetails": {
-    "name": "Bibin Baby",
-    "role": "Fullstack Developer - Angular | React | Node.js | Python",
+    "name": "Salmanul Faris K",
+    "role": " Data Engineering | Python | AWS | Azure",
     "info": [
       {
         "label": "Knowledge Lens: A Rockwell Automation Company",
@@ -14,41 +14,36 @@
         "icon": "assets/images/location.svg"
       },
       {
-        "label": "Kannur, Kerala, India",
-        "link": "https://goo.gl/maps/Ak7jJiCXMS3nYfkK8",
+        "label": "Malappuram, Kerala, India",
+        "link": "https://maps.app.goo.gl/vKCHiDbEWsXg3kBu8",
         "icon": "assets/images/home.svg"
+      },
+      {
+        "label": "Salmaan.faris.k@gmail.com",
+        "link": "mailto:Salmaan.faris.k@gmail.com",
+        "icon": "assets/images/gmail.svg"
       }
+      
     ],
     "contact": [
       {
         "icon": "assets/images/github.svg",
         "label": "Github",
-        "link": "https://github.com/baby-bibin",
-        "userId": "baby-bibin"
+        "link": "https://github.com/salman-faris-k",
+        "userId": "salman-faris-k"
       },
+     
       {
-        "icon": "assets/images/insta.svg",
-        "label": "Instagram",
-        "link": "https://www.instagram.com/bibin.baby_/",
-        "userId": "bibin.baby_"
-      },
-      {
-        "icon": "assets/images/telegram.svg",
-        "label": "Telegram",
-        "link": "https://t.me/baby_bibin",
-        "userId": "baby_bibin"
-      },
-      {
-        "icon": "assets/images/facebook.svg",
-        "label": "Facebook",
-        "link": "https://www.facebook.com/kunjunji.bibin/",
-        "userId": "kunjunji.bibin"
+        "icon": "assets/images/LinkedIn_Logo.svg.svg",
+        "label": "LinkedIn",
+        "link": "www.linkedin.com/in/faris-salman-k",
+        "userId": "Salman Faris"
       },
       {
         "icon": "assets/images/phone.svg",
         "label": "Phone",
-        "link": "+919747023547",
-        "userId": "+919747023547"
+        "link": "+919048362160",
+        "userId": "+919048362160"
       }
     ]
   },
