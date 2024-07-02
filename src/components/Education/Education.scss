@@ -15,15 +15,15 @@
   .details {
     .title {
       font-weight: 600;
-      cursor: pointer;
       color: $shadeFour;
     }
 
-    .title:hover {
+    .subtitle:hover {
       text-decoration: underline;
     }
 
     .subtitle {
+      cursor: pointer;
       font-size: 14px;
     }
 

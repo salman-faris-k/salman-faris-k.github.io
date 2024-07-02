@@ -12,16 +12,6 @@ import TimelineOppositeContent, {
 
 import "../Experience/Experience.scss";
 
-const customTheme = {
-  yearColor: "#405b73",
-  lineColor: "#d0cdc4",
-  dotColor: "#262626",
-  borderDotColor: "#d0cdc4",
-  titleColor: "#405b73",
-  subtitleColor: "#bf9765",
-  textColor: "#262626",
-};
-
 const monthDiff = (d1: any, d2: any) => {
   let months;
   months = (d2.getFullYear() - d1.getFullYear()) * 12;
@@ -29,12 +19,13 @@ const monthDiff = (d1: any, d2: any) => {
   months += d2.getMonth();
   months = Math.abs(months);
   months = months <= 0 ? 0 : months;
-  return `${months} Months`;
+  let years = months / 12;
+  months = months % 12;
+  return `${~~years} Year${~~years > 1 ? "s" : ""} ${months ? "and " + months + " Months" : ""}`;
 };
 
 const Experience: FC<any> = (props: any) => {
   const [timelineDetails] = useState(props.details.timeline);
-  let currentDate: any = new Date();
   return (
     timelineDetails && (
       <div className="infoCard mt-3 px-4 py-3">
@@ -70,7 +61,7 @@ const Experience: FC<any> = (props: any) => {
                     </div>
                   </TimelineOppositeContent>
                   <TimelineSeparator>
-                    <TimelineDot />
+                    <TimelineDot color="secondary" variant="outlined" />
                     {index !== timelineDetails.length - 1 && (
                       <TimelineConnector />
                     )}
@@ -81,7 +72,11 @@ const Experience: FC<any> = (props: any) => {
                       <div className="Company">
                         {item.company},&nbsp;{item.location}
                       </div>
-                      <div className="Duration">{item.timePeriod}</div>
+                      <div className="Duration">
+                        {item.timePeriod
+                          ? item.timePeriod
+                          : monthDiff(new Date(item.from), new Date())}
+                      </div>
                     </div>
                   </TimelineContent>
                 </TimelineItem>

@@ -1,7 +1,7 @@
 .dateElement {
   display: flex;
   flex-direction: column;
-  min-width: 100px;
+  white-space: nowrap;
   .subText {
     font-size: 10px;
     text-align: right;
@@ -20,7 +20,7 @@
   .Company {
     font-size: 14px;
     font-style: italic;
-    opacity: 0.8;
+    opacity: 0.6;
   }
   .Duration {
     opacity: 0.8;

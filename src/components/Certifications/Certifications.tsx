@@ -2,7 +2,7 @@ import { FC, useState } from "react";
 import "./Certifications.scss";
 
 const navigateToUrl = (url: string) => {
-  window.open(url, "blank");
+  // window.open(url, "blank");
 };
 
 const Certifications: FC<any> = (props: any) => {
