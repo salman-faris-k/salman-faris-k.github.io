@@ -61,7 +61,7 @@ const Experience: FC<any> = (props: any) => {
                     </div>
                   </TimelineOppositeContent>
                   <TimelineSeparator>
-                    <TimelineDot color="secondary" variant="outlined" />
+                    <TimelineDot variant="outlined" />
                     {index !== timelineDetails.length - 1 && (
                       <TimelineConnector />
                     )}

@@ -2,6 +2,7 @@
   display: flex;
   flex-direction: column;
   white-space: nowrap;
+  min-width: 90px;
   .subText {
     font-size: 10px;
     text-align: right;
