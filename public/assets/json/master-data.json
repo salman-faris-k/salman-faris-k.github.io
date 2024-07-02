@@ -1,7 +1,7 @@
 {
   "profileCardDetails": {
     "name": "Salmanul Faris K",
-    "role": " Data Engineering | Python | AWS | Azure",
+    "role": " Machine Learning . Data Engineering . Python . AWS . Azure · MLOps",
     "info": [
       {
         "label": "Knowledge Lens: A Rockwell Automation Company",
@@ -48,7 +48,10 @@
     ]
   },
   "summaryCardDetails": {
-    "summary": "A Fullstack Developer with more than five years of hands-on experience in designing, developing, and maintaining robust web applications. Proficient in both frontend and backend technologies and have a deep understanding of various programming languages, frameworks, and tools and well-versed in HTML, CSS, JavaScript, and frontend frameworks React and Angular.\n\nOn the backend, skilled in server-side scripting languages Node.js and Python, along with experience in database management using technologies MySQL, MongoDB, PostgreSQL. And I've comprehensive skill set that enables to handle the entire software development life cycle, from design to deployment and maintenance. With a commitment to staying updated on emerging technologies and industry best practices."
+    "summary": "Dedicated and results-driven technology professional has over 5+ years of expertise and a proven track 
+record in big data engineering, seeking a challenging role to leverage expertise in ETL processes, cloud 
+architecture, and data analytics. Striving to contribute innovative solutions to optimize data workflows, 
+drive efficiency, and deliver impactful results for an industry-leading organization"
   },
   "experience": {
     "timeline": [
@@ -64,14 +67,14 @@
         "title": "Full Stack Developer",
         "company": "Knowledge Lens",
         "from": "Wed May 01 2019 00:00:00",
-        "to": "Sat May 01 2021 00:00:00",
-        "location": "Pune, Maharashtra, India",
-        "timePeriod": "2 Years"
+        "to": "Sat May 01 2020 00:00:00",
+        "location": "Bangalore, Karnataka, India",
+        "timePeriod": "1 Year"
       },
       {
-        "title": "Sr. Full Stack Developer",
+        "title": "Big Data Engineer",
         "company": "Knowledge Lens",
-        "from": "Sat May 01 2021 00:00:00",
+        "from": "Sat May 01 2020 00:00:00",
         "to": "Sat Oct 01 2022 00:00:00",
         "location": "Bangalore, Karnataka, India",
         "timePeriod": "1.5 Years"
