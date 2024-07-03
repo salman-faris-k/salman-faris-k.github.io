@@ -111,37 +111,37 @@
   "works": [
     {
       "title": "Apache Airflow",
-      "image": "assets/images/tech/airflow.svg",
+      "image": "assets/images/tech/airflow.png",
       "description": "Apache Airflow is an open-source platform to programmatically author, schedule, and monitor workflows.",
       "link": ""
     },
     {
       "title": "KubeFlow",
-      "image": "assets/images/tech/kubeflow.svg",
+      "image": "assets/images/tech/kubeflow.png",
       "description": "Kubeflow is an open-source platform for deploying, managing, and scaling machine learning workflows on Kubernetes.",
       "link": ""
     },
     {
       "title": "MLFlow",
-      "image": "assets/images/tech/mlflow.svg",
+      "image": "assets/images/tech/mlflow.png",
       "description": "MLflow is an open-source platform for managing the end-to-end machine learning lifecycle, including experimentation, reproducibility, and deployment.",
       "link": ""
     },
     {
       "title": "Docker",
-      "image": "assets/images/tech/docker.svg",
+      "image": "assets/images/tech/docker.png",
       "description": "Docker is an open platform for developing, shipping, and running applications in containers.",
       "link": ""
     },
     {
       "title": "Kubernetes",
-      "image": "assets/images/tech/k8s.svg",
+      "image": "assets/images/tech/k8s.png",
       "description": "Kubernetes is an open-source platform for automating the deployment, scaling, and management of containerized applications",
       "link": ""
     },
     {
       "title": "PySpark",
-      "image": "assets/images/tech/pyspark.svg",
+      "image": "assets/images/tech/pyspark.png",
       "description": "PySpark is the Python API for Apache Spark, enabling large-scale data processing and analytics.",
       "link": ""
     },
@@ -194,26 +194,20 @@
       "link": ""
     },
     {
-      "title": "Shell Scripting",
-      "image": "assets/images/tech/shellscript.svg",
-      "description": "A shell script is a text file containing a sequence of commands for a Unix-based shell to execute",
-      "link": ""
-    },
-    {
       "title": "Terraform",
-      "image": "assets/images/tech/terraform.svg",
+      "image": "assets/images/tech/",
       "description": "Terraform is an open-source infrastructure as code (IaC) tool for building, changing, and versioning infrastructure safely and efficiently",
       "link": ""
     },
      {
       "title": "AWS",
-      "image": "assets/images/tech/aws.svg",
+      "image": "assets/images/tech/aws.png",
       "description": "",
       "link": ""
     },
     {
       "title": "Azure",
-      "image": "assets/images/tech/azure.svg",
+      "image": "assets/images/tech/azure.png",
       "description": "",
       "link": ""
     }
