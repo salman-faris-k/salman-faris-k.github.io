@@ -28,6 +28,9 @@ const Profile: FC<any> = (props: any) => {
       case "Telegram":
         window.open(item.link, "_blank");
         break;
+	  case "Linkedin":
+        window.open(item.link, "_blank");
+        break;
     }
   };
 
