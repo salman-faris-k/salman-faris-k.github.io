@@ -22,11 +22,6 @@
         "label": "Salmaan.faris.k@gmail.com",
         "link": "mailto:Salmaan.faris.k@gmail.com",
         "icon": "assets/images/gmail.svg"
-      },
-	  {
-        "label": "www.linkedin.com/in/faris-salman-k",
-        "link": "www.linkedin.com/in/faris-salman-k",
-        "icon": "assets/images/linkedin.png"
       }
       
     ],
@@ -36,6 +31,13 @@
         "label": "Github",
         "link": "https://github.com/salman-faris-k",
         "userId": "salman-faris-k"
+      },
+	  
+	  {
+        "icon": "assets/images/linkedin.png",
+        "label": "LinkeDin",
+        "link": "www.linkedin.com/in/faris-salman-k",
+        "userId": "faris-salman-k"
       },
      
       {
