@@ -195,7 +195,7 @@
     },
     {
       "title": "Terraform",
-      "image": "assets/images/tech/",
+      "image": "assets/images/tech/terraform.png",
       "description": "Terraform is an open-source infrastructure as code (IaC) tool for building, changing, and versioning infrastructure safely and efficiently",
       "link": ""
     },
