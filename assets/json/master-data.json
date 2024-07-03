@@ -22,6 +22,11 @@
         "label": "Salmaan.faris.k@gmail.com",
         "link": "mailto:Salmaan.faris.k@gmail.com",
         "icon": "assets/images/gmail.svg"
+      },
+	  {
+        "label": "www.linkedin.com/in/faris-salman-k",
+        "link": "www.linkedin.com/in/faris-salman-k",
+        "icon": "assets/images/linkedin.png"
       }
       
     ],
@@ -33,12 +38,6 @@
         "userId": "salman-faris-k"
       },
      
-      {
-        "icon": "assets/images/LinkedIn_Logo.svg",
-        "label": "LinkedIn",
-        "link": "www.linkedin.com/in/faris-salman-k",
-        "userId": "Salman Faris"
-      },
       {
         "icon": "assets/images/phone.svg",
         "label": "Phone",
