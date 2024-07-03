@@ -93,55 +93,65 @@ drive efficiency, and deliver impactful results for an industry-leading organiza
     {
       "title": "Master of Computer Applications",
       "subtitle": "TKM College Of Engineering, Kollam, Kerala, India",
-      "year": "2017 - 2019",
+      "year": "2017 - 2016",
       "image": "assets/images/tkm.png",
       "link": "https://www.tkmce.ac.in/"
     },
     {
-      "subtitle": "Mahatma Gandhi College, Iritty, Kerala, India",
+      "subtitle": "Majlis Arts and Science College, Malappuram",
       "title": "Bachelor of Science in Computer Science",
-      "year": "2014 - 2017",
+      "year": "2013 - 2016",
       "image": "assets/images/mg-college.png",
       "link": "https://mgcollege.ac.in/"
     }
   ],
   "certifications": [
     {
-      "title": "Introduction to Generative AI Learning Path",
-      "authority": "Google"
-    },
-    { "title": "Angular - The Complete Guide", "authority": "Udemy" },
-    { "title": "React - The Complete Guide", "authority": "Udemy" }
+      "title": "DP-203: Data Engineering on Microsoft Azure",
+      "authority": "Microsoft"
+    }
   ],
   "works": [
     {
-      "title": "Angular",
-      "image": "assets/images/tech/angular.svg",
-      "description": "Angular is a TypeScript-based free and open-source web application framework led by the Angular Team at Google and by a community of individuals and corporations. Angular is a complete rewrite from the same team that built AngularJS",
+      "title": "Apache Airflow",
+      "image": "assets/images/tech/airflow.svg",
+      "description": "Apache Airflow is an open-source platform to programmatically author, schedule, and monitor workflows.",
       "link": ""
     },
     {
-      "title": "React",
-      "image": "assets/images/tech/react.svg",
-      "description": "React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies.",
+      "title": "KubeFlow",
+      "image": "assets/images/tech/kubeflow.svg",
+      "description": "Kubeflow is an open-source platform for deploying, managing, and scaling machine learning workflows on Kubernetes.",
       "link": ""
     },
     {
-      "title": "Node.js",
-      "image": "assets/images/tech/nodejs.svg",
-      "description": "Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser.",
+      "title": "MLFlow",
+      "image": "assets/images/tech/mlflow.svg",
+      "description": "MLflow is an open-source platform for managing the end-to-end machine learning lifecycle, including experimentation, reproducibility, and deployment.",
       "link": ""
     },
     {
-      "title": "ExpressJS",
-      "image": "assets/images/tech/expressjs.png",
-      "description": "",
+      "title": "Docker",
+      "image": "assets/images/tech/docker.svg",
+      "description": "Docker is an open platform for developing, shipping, and running applications in containers.",
+      "link": ""
+    },
+    {
+      "title": "Kubernetes",
+      "image": "assets/images/tech/k8s.svg",
+      "description": "Kubernetes is an open-source platform for automating the deployment, scaling, and management of containerized applications",
+      "link": ""
+    },
+    {
+      "title": "PySpark",
+      "image": "assets/images/tech/pyspark.svg",
+      "description": "PySpark is the Python API for Apache Spark, enabling large-scale data processing and analytics.",
       "link": ""
     },
     {
       "title": "Python",
       "image": "assets/images/tech/python.svg",
-      "description": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for small- and large-scale projects.",
+      "description": "Python is a high-level, interpreted programming language known for its readability and versatility.",
       "link": ""
     },
     {
@@ -163,6 +173,12 @@ drive efficiency, and deliver impactful results for an industry-leading organiza
       "link": ""
     },
     {
+      "title": "KairosDB",
+      "image": "assets/images/tech/kairosdb.svg",
+      "description": "",
+      "link": ""
+    },
+    {
       "title": "PostgreSQL",
       "image": "assets/images/tech/postgres.png",
       "description": "",
@@ -177,6 +193,30 @@ drive efficiency, and deliver impactful results for an industry-leading organiza
     {
       "title": "Open AI",
       "image": "assets/images/tech/openai-2.jpg",
+      "description": "",
+      "link": ""
+    },
+    {
+      "title": "Shell Scripting",
+      "image": "assets/images/tech/shellscript.svg",
+      "description": "A shell script is a text file containing a sequence of commands for a Unix-based shell to execute",
+      "link": ""
+    },
+    {
+      "title": "Terraform",
+      "image": "assets/images/tech/terraform.svg",
+      "description": "Terraform is an open-source infrastructure as code (IaC) tool for building, changing, and versioning infrastructure safely and efficiently",
+      "link": ""
+    },
+     {
+      "title": "AWS",
+      "image": "assets/images/tech/aws.svg",
+      "description": "",
+      "link": ""
+    },
+    {
+      "title": "Azure",
+      "image": "assets/images/tech/azure.svg",
       "description": "",
       "link": ""
     }
