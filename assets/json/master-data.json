@@ -4,13 +4,13 @@
     "role": " Machine Learning . Data Engineering . Python . AWS . Azure · MLOps",
     "info": [
       {
-        "label": "Knowledge Lens: A Rockwell Automation Company",
-        "link": "https://www.Knowledge Lens.com/",
+        "label": "Al-Ghurair",
+        "link": "https://www.al-ghurair.com/",
         "icon": "assets/images/company.svg"
       },
       {
-        "label": "Bengaluru, Karnataka, India",
-        "link": "https://goo.gl/maps/4SqY4wEgmLCQHujX8",
+        "label": "Abu Dhabi",
+        "link": "https://maps.app.goo.gl/KDKrUehQTeQRhBAB8",
         "icon": "assets/images/location.svg"
       },
       {
@@ -81,8 +81,16 @@
         "title": "Technology Lead",
         "company": "Knowledge Lens: A Rockwell Automation Company ",
         "from": "Sat Oct 01 2022 00:00:00",
-        "to": "",
+        "to": "Sat Sep 21 2024 00:00:00",
         "location": "Bangalore, Karnataka, India",
+        "timePeriod": ""
+      },
+      {
+        "title": "Lead Data Engineer",
+        "company": "Al Ghurair ",
+        "from": "Sat Oct 01 2024 00:00:00",
+        "to": "",
+        "location": "Dubai UAE",
         "timePeriod": ""
       }
     ]
@@ -108,6 +116,11 @@
       "title": "DP-203: Data Engineering on Microsoft Azure",
       "authority": "Microsoft"
     },
+    {
+      "title": "Microsoft Certified: Azure AI Fundamentals",
+      "authority": "Microsoft"
+    },
+	  
     {
       "title": "Introduction to Generative AI",
       "authority": "Google Cloud"
