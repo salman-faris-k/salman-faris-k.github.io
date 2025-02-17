@@ -49,7 +49,11 @@
     ]
   },
   "summaryCardDetails": {
-    "summary": "Experienced Data Engineer with over 5+ years of expertise in designing, developing, and optimizing ETL pipelines, data lakes, and warehouses. Currently serving as a Lead Data Engineer at Al Ghurair Group, Dubai, overseeing data integration, ETL processes, and dashboard development for data-driven decision-making. Previously at Knowledge Lens (Rockwell Automation), led the design of scalable ETL architectures, deployed ML pipelines for IoT data, and provided GenAI solutions for finance and sales teams. Proficient in Python, AWS, Azure, SQL, and big data tools like PySpark and Apache Airflow. Skilled in RESTful API development, database optimization, and real-time data analytics. Delivered impactful projects like GLens for industrial emissions monitoring and FactoryTalk DataMosaix for predictive maintenance. Adept at cross-functional collaboration, troubleshooting, and implementing data quality frameworks to ensure scalability and performance."
+    "summary": "Experienced Data Engineer with 5+ years of expertise in designing, developing, and optimizing ETL pipelines, data
+lakes, and warehouses. Proficient in Python, PySpark, SQL, Azure, and AWS, with hands-on experience in big
+data technologies (Hadoop, Spark, Kafka) and machine learning frameworks (Kubeflow, MLflow). Skilled in building
+scalable data pipelines, integrating machine learning models, and ensuring data quality and governance. Adept at
+collaborating with cross-functional teams to deliver data-driven solutions and enable real-time analytics."
   },
   "experience": {
     "timeline": [
