@@ -49,7 +49,7 @@
     ]
   },
   "summaryCardDetails": {
-    "summary": "Experienced Data Engineer with 5+ years of expertise in designing, developing, and optimizing ETL pipelines, datalakes, and warehouses. Proficient in Python, PySpark, SQL, Azure, and AWS, with hands-on experience in bigdata technologies (Hadoop, Spark, Kafka) and machine learning frameworks (Kubeflow, MLflow). Skilled in buildingscalable data pipelines, integrating machine learning models, and ensuring data quality and governance. Adept at collaborating with cross-functional teams to deliver data-driven solutions and enable real-time analytics."
+    "summary": "Experienced Data/ML Engineer with 5+ years of expertise in designing, developing, and optimizing ETL pipelines, datalakes, and warehouses. Proficient in Python, PySpark, SQL, Azure, and AWS, with hands-on experience in bigdata technologies (Hadoop, Spark, Kafka) and machine learning frameworks (Kubeflow, MLflow). Skilled in buildingscalable data pipelines, integrating machine learning models, and ensuring data quality and governance. Adept at collaborating with cross-functional teams to deliver data-driven solutions and enable real-time analytics."
   },
   "experience": {
     "timeline": [
